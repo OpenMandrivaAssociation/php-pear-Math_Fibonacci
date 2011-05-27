@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.8
-Release:	%mkrel 12
+Release:	%mkrel 13
 Summary:	Package to calculat and manipulate Fibonacci numbers
 License:	PHP License
 Group:		Development/PHP
